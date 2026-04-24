@@ -9,7 +9,7 @@ Repo collecting all the advent of codes I do
 
 Programming language: Go
 
-[Advent-of-code-2024](./2025)
+[Advent-of-code-2025](./2025)
 
 ### 2024
 
