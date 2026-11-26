@@ -5,6 +5,12 @@ Repo collecting all the advent of codes I do
 
 ## Years
 
+### 2026
+
+Programming language: C++
+
+[Advent-of-code-2026](./2026)
+
 ### 2025
 
 Programming language: Go
