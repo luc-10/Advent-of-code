@@ -4,3 +4,6 @@
 [submodule "2025"]
 	path = 2025
 	url = https://github.com/luc-10/Advent-of-code-2025
+[submodule "2026"]
+	path = 2026
+	url = https://github.com/luc-10/Advent-of-code-2026
